@@ -14,3 +14,7 @@ Querying an API in python and reading a JSON response
 
 # Contents
 
+1: Report - Capstone Project Matt.pdf - Final report for the project discussing problem, methodoligy and solution  
+2: Final Project Matt.ipynb - Final Project Jupyter Notebook  
+3: Presentation - Matt Coursera Capstone.pdf - Final Presentation summarising the report for the project  
+4: data - Project data folder used in the project
